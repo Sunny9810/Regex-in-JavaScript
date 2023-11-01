@@ -8,7 +8,6 @@ In this Regex Tutorial, you will learn how to validate the featured email addres
 - [The Challenge](#The-Challenge)
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation-Process)
-
 - [Author](#Author)
 - [Acknowledgments](#Acknowledgments)
 
@@ -67,6 +66,9 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 [Deployed GitHub-Gist Link: Click Here]()
 ## GitHub Repository:
 [GitHub Repository: Click Here]()
+
+### Figure 1. Deployed Public GitHub Gist Screenshot.
+![](./Images/regex-gif.gif)
 
 ## Installation Process:
 **Set up a GitHub Gist:**
