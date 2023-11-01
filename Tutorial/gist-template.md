@@ -21,8 +21,6 @@ Throughout this tutorial, we will consistently refer to the featured regular exp
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
