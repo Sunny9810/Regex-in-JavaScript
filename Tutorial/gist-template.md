@@ -127,4 +127,9 @@ Character escapes serve a crucial role for ensuring accurately matching text pat
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Follow me on Github at [Sunny9810](https://github.com/Sunny9810).Reach out to me if you have any questions.
+
+Code is like humor. When you have to explain it, it’s bad. – Cory House
+
+Deployed GitHub-Gist Link:[Deployed GitHub-Gist Link: Click Here]()
+GitHub Repository:[GitHub Repository: Click Here]()
