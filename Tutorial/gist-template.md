@@ -81,6 +81,17 @@ Dots: .
 
 ### Bracket Expressions
 
+Bracket expressions are a fundamental concept in regular expressions (regex), used to define a set of characters that can be matched within a single position in a text string. They are denoted by square brackets [...], and any character enclosed within these brackets will become a part of the allowed set In /^([a-z0-9_.-]+)@([\da-z.-]+).([a-z.]{2,6})$/ there are (3) main bracket expressions:
+
+1. Bracket Expression:
+The bracket expression [a-z0-9_.-] matches any single character in the range a-z, 0-9, or one of the characters _, ., or -. Thus the expression is used to match the Grouping Constructs: local part the username part of the email address.
+
+2. Bracket Expression:
+The bracket expression [\da-z.-] matches any single character in the range 0-9, a-z, or one of the characters ., or -. Thus the expression is used to match the Grouping Constructs: domain part of the email address.
+
+3. Bracket Expression:
+he bracket expression [a-z.]{2,6} matches any single character in the range a-z or the literal period (dot) character. The expression is then followed by a quantifier {2,6}, which specifies that the matched characters must occur between 2 and 6 times, inclusive. Thus used to match the Grouping Constructs: top-level domain of the email address.
+
 ### Character Classes
 
 ### The OR Operator
