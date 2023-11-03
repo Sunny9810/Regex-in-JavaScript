@@ -50,9 +50,9 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
-**GitHub Gist: [Click Here](https://sunny9810.github.io/Regex-in-JavaScript)**
+**GitHub Gist: [Click Here](https://gist.github.com/Sunny9810/545576c3c8a04d4851a3fffd6b4c5b71)**
 ### The following animation demonstrates the GitHub Gist .md file:
-![](.)
+![](./Images/Recording%202023-10-31%20203430.mp4)
 
 ## Usage Instructions:
 1. Access the deployed GitHub Gist link.
@@ -63,7 +63,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 
 ## Deployed GitHub-Gist Link:
-[Deployed GitHub-Gist Link: Click Here](https://sunny9810.github.io/Regex-in-JavaScript)
+[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/Sunny9810/545576c3c8a04d4851a3fffd6b4c5b71)
 ## GitHub Repository:
 [GitHub Repository: Click Here](https://github.com/Sunny9810/Regex-in-JavaScript)
 
